@@ -1,5 +1,7 @@
 # Show My Headers
 
+[![security](https://hakiri.io/github/genebean/show-my-headers/master.svg)](https://hakiri.io/github/genebean/show-my-headers/master)
+
 This is a simple [Sinatra](http://www.sinatrarb.com/) app that will print all
 headers that start with `HTTP_` as the body of the main page.
 
